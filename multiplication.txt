@@ -1,0 +1,2 @@
+multiplication
+5*5=25
